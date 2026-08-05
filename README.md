@@ -5,6 +5,7 @@ This repository documents mi Python learning journey through the development of 
 Although I attend Python classes, the concepts and features implemented in this project have been learned independently through self-study and personal practice. Instead of creating a single final version, i improve the project step by step, adding new features and applying the programming concepts I learn along the way.
 ## Versions
 ### v1 - Basic BMI Calculator
+**Completed:** 02/08/2026  |  **Development time:** 1 day
 #### Concepts Learned
 - ´input ( )´
 - ´print ( )´
@@ -18,6 +19,7 @@ Although I attend Python classes, the concepts and features implemented in this 
 - Displays the calculated BMI.
 ---
 ### v2 - BMI Categories
+**Completed:** 02/08/2026  |  **Development time:** 1 day
 #### Concepts Learned
 - ´if´
 - ´elif´
@@ -28,6 +30,7 @@ Although I attend Python classes, the concepts and features implemented in this 
 - Displays a different message for each BMI category.
 ---
 ### v3 - Personalized Experience
+**Completed:** 02/08/2026  |  **Development time:** 1 day
 #### Concepts Learned 
 - f-strings
 - Better code organization
@@ -38,6 +41,7 @@ Although I attend Python classes, the concepts and features implemented in this 
 - Added a health disclaimer.
 ---
 ### v4 - User Validation
+**Completed:** 02/08/2026  |  **Development time:** 1 day
 #### Concepts Learned
 - ´.strip( )´
 - ´.lower( )´
