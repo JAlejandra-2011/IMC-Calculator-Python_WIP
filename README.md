@@ -52,15 +52,20 @@ Although I attend Python classes, the concepts and features implemented in this 
 - Validates user choices.
 - Rejects invalid options.
 ---
-### v5 - Program Loop (Coming soon)
-> **Status:** Testing and debugging.
-#### Concepts Being Learned
+### v5 - Program Loop
+**Completed:** 05/08/2026  |  **Development time:** 2 days
+#### Concepts Learned
 - while
 - break
 - continue
-#### Planned Features
+- loop control
+- input validation
+- logic debugging
+#### Features
 - Allow multiple BMI calculations.
 - Let the user restart or exit the program without running it again.
+- handles invalid option.
+- Improves program stability.
 ---
 ## Future Improvements
 - Functions(def)
