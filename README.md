@@ -73,11 +73,18 @@ Although I attend Python classes, the concepts and features implemented in this 
 ---
 ### v6 - Calculation History
 **Completed:** 12/08/2026 | **Development time:** 1 day
-#### concepts Learned
+#### Concepts Learned
  - Lists
  - .append()
  - len()
  - for loops
+ - enumerate()
+ - list unpacking
+#### Features
+ - Stores BMI calculations during the current session.
+ - Allows the user to view the calculation history.
+ - Displays the number, name, and BMI calculation.
+ - Handles an empty history without causing an error. 
 ## Future Improvements
 - Functions(def)
 - Error handling (try/except)
