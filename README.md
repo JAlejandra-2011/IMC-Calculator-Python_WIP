@@ -1,8 +1,8 @@
 # IMC-Calculator-Python
 > **Work in progress**
 ## About
-This repository documents mi Python learning journey through the development of a BMI (Body Max Index) calculator.
-Although I attend Python classes, the concepts and features implemented in this project have been learned independently through self-study and personal practice. Instead of creating a single final version, i improve the project step by step, adding new features and applying the programming concepts I learn along the way.
+This repository documents my Python learning journey through the development of a BMI (Body Max Index) calculator.
+Although I attend Python classes, the concepts and features implemented in this project have been learned independently through self-study and personal practice. Instead of creating a single final version, I improve the project step by step, adding new features and applying the programming concepts I learn along the way.
 ## Versions
 ### v1 - Basic BMI Calculator
 **Completed:** 02/08/2026  |  **Development time:** 1 day
@@ -71,6 +71,13 @@ Although I attend Python classes, the concepts and features implemented in this 
 - handles invalid option.
 - Improves program stability.
 ---
+### v6 - Calculation History
+**Completed:** 12/08/2026 | **Development time:** 1 day
+#### concepts Learned
+ - Lists
+ - .append()
+ - len()
+ - for loops
 ## Future Improvements
 - Functions(def)
 - Error handling (try/except)
