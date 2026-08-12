@@ -6,7 +6,7 @@ while True:
  elif iniciar != "si":
     print("Respuesta no válida. Por favor, escribe 'si' o 'no'.")
     continue
- #Aqui empieza el el imc
+ #Aqui empieza el imc
  while True:
      sexo =input("selecciona tu sexo(mujer/hombre)").strip().lower()
      if sexo == "mujer":
@@ -39,9 +39,11 @@ while True:
          continue
      break 
      
- # Aquí empieza el proceso de edad
+ # Aquí empieza el proceso de calcular el IMC
  while True:
      print("¡Perfecto! Vamos a calcular tu IMC.")
+     print("(pulse enter para continuar)")
+     input()
      nombre = input("¡hola! ¿Cuál es tu nombre? ")
      peso = int(input("escribe tu peso: "))
      if peso < 10 or peso > 300:
@@ -78,3 +80,4 @@ while True:
  elif continuar != "si":
     print("Respuesta no válida. Por favor, escribe 'si' o 'no'.")
     continue
+ 
